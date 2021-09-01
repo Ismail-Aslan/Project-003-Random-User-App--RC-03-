@@ -1,0 +1,61 @@
+.main {
+    text-align: center;
+}
+.card {
+    border: 1px solid;
+    border-radius: 5px;
+    width: fit-content;
+    min-width: 400px;
+    padding: 10px;
+    text-align: center;
+    margin: 15% auto;
+}
+
+
+.avatar {
+    width: 128px;
+    height: 128px;
+    border-radius: 64px;
+ 
+}
+
+.name {
+    display: inline-block;
+    vertical-align: 50px;
+}
+
+
+
+.svg {
+    width: 30px;
+    height: auto;
+    display: inline;
+}
+
+.desc {
+    display: inline-block;
+    vertical-align: 10px;
+}
+
+
+th,td {
+    text-align: center;
+    vertical-align: baseline;
+    line-height: 2rem;
+}
+
+.btn-container {
+    text-align: center;
+}
+
+#btn {
+
+    padding: 10px 5px;
+    background-color: dodgerblue;
+    color: aliceblue;
+    border-radius: 5px;
+}
+
+#btn:hover {
+    background-color: rgba(30, 143, 255, 0.555);
+}
